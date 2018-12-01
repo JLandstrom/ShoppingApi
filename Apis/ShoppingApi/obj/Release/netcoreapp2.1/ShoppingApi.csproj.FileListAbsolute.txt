@@ -1,0 +1,17 @@
+C:\Users\Johan Landström\Source\Workspaces\Home Project\Develop\Apis\ShoppingApi\bin\Release\netcoreapp2.1\ShoppingApi.deps.json
+C:\Users\Johan Landström\Source\Workspaces\Home Project\Develop\Apis\ShoppingApi\bin\Release\netcoreapp2.1\ShoppingApi.runtimeconfig.json
+C:\Users\Johan Landström\Source\Workspaces\Home Project\Develop\Apis\ShoppingApi\bin\Release\netcoreapp2.1\ShoppingApi.runtimeconfig.dev.json
+C:\Users\Johan Landström\Source\Workspaces\Home Project\Develop\Apis\ShoppingApi\bin\Release\netcoreapp2.1\ShoppingApi.dll
+C:\Users\Johan Landström\Source\Workspaces\Home Project\Develop\Apis\ShoppingApi\bin\Release\netcoreapp2.1\ShoppingApi.pdb
+C:\Users\Johan Landström\Source\Workspaces\Home Project\Develop\Apis\ShoppingApi\bin\Release\netcoreapp2.1\StandardLibrary.dll
+C:\Users\Johan Landström\Source\Workspaces\Home Project\Develop\Apis\ShoppingApi\obj\Release\netcoreapp2.1\ShoppingApi.csprojAssemblyReference.cache
+C:\Users\Johan Landström\Source\Workspaces\Home Project\Develop\Apis\ShoppingApi\obj\Release\netcoreapp2.1\ShoppingApi.csproj.CoreCompileInputs.cache
+C:\Users\Johan Landström\Source\Workspaces\Home Project\Develop\Apis\ShoppingApi\obj\Release\netcoreapp2.1\ShoppingApi.RazorAssemblyInfo.cache
+C:\Users\Johan Landström\Source\Workspaces\Home Project\Develop\Apis\ShoppingApi\obj\Release\netcoreapp2.1\ShoppingApi.RazorAssemblyInfo.cs
+C:\Users\Johan Landström\Source\Workspaces\Home Project\Develop\Apis\ShoppingApi\obj\Release\netcoreapp2.1\ShoppingApi.AssemblyInfoInputs.cache
+C:\Users\Johan Landström\Source\Workspaces\Home Project\Develop\Apis\ShoppingApi\obj\Release\netcoreapp2.1\ShoppingApi.AssemblyInfo.cs
+C:\Users\Johan Landström\Source\Workspaces\Home Project\Develop\Apis\ShoppingApi\obj\Release\netcoreapp2.1\ShoppingApi.RazorTargetAssemblyInfo.cache
+C:\Users\Johan Landström\Source\Workspaces\Home Project\Develop\Apis\ShoppingApi\obj\Release\netcoreapp2.1\ShoppingApi.csproj.CopyComplete
+C:\Users\Johan Landström\Source\Workspaces\Home Project\Develop\Apis\ShoppingApi\obj\Release\netcoreapp2.1\ShoppingApi.dll
+C:\Users\Johan Landström\Source\Workspaces\Home Project\Develop\Apis\ShoppingApi\obj\Release\netcoreapp2.1\ShoppingApi.pdb
+C:\Users\Johan Landström\Source\Workspaces\Home Project\Develop\Apis\ShoppingApi\obj\Release\netcoreapp2.1\UserSecretsAssemblyInfo.cs

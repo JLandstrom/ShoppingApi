@@ -1,0 +1,14 @@
+C:\Users\Johan Landström\Source\Workspaces\Home Project\Develop\Apis\ShoppingApiTests\bin\Release\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Johan Landström\Source\Workspaces\Home Project\Develop\Apis\ShoppingApiTests\bin\Release\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Johan Landström\Source\Workspaces\Home Project\Develop\Apis\ShoppingApiTests\bin\Release\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Johan Landström\Source\Workspaces\Home Project\Develop\Apis\ShoppingApiTests\bin\Release\netcoreapp2.1\ShoppingApiTests.deps.json
+C:\Users\Johan Landström\Source\Workspaces\Home Project\Develop\Apis\ShoppingApiTests\bin\Release\netcoreapp2.1\ShoppingApiTests.runtimeconfig.json
+C:\Users\Johan Landström\Source\Workspaces\Home Project\Develop\Apis\ShoppingApiTests\bin\Release\netcoreapp2.1\ShoppingApiTests.runtimeconfig.dev.json
+C:\Users\Johan Landström\Source\Workspaces\Home Project\Develop\Apis\ShoppingApiTests\bin\Release\netcoreapp2.1\ShoppingApiTests.dll
+C:\Users\Johan Landström\Source\Workspaces\Home Project\Develop\Apis\ShoppingApiTests\bin\Release\netcoreapp2.1\ShoppingApiTests.pdb
+C:\Users\Johan Landström\Source\Workspaces\Home Project\Develop\Apis\ShoppingApiTests\obj\Release\netcoreapp2.1\ShoppingApiTests.csprojAssemblyReference.cache
+C:\Users\Johan Landström\Source\Workspaces\Home Project\Develop\Apis\ShoppingApiTests\obj\Release\netcoreapp2.1\ShoppingApiTests.csproj.CoreCompileInputs.cache
+C:\Users\Johan Landström\Source\Workspaces\Home Project\Develop\Apis\ShoppingApiTests\obj\Release\netcoreapp2.1\ShoppingApiTests.AssemblyInfoInputs.cache
+C:\Users\Johan Landström\Source\Workspaces\Home Project\Develop\Apis\ShoppingApiTests\obj\Release\netcoreapp2.1\ShoppingApiTests.AssemblyInfo.cs
+C:\Users\Johan Landström\Source\Workspaces\Home Project\Develop\Apis\ShoppingApiTests\obj\Release\netcoreapp2.1\ShoppingApiTests.dll
+C:\Users\Johan Landström\Source\Workspaces\Home Project\Develop\Apis\ShoppingApiTests\obj\Release\netcoreapp2.1\ShoppingApiTests.pdb
